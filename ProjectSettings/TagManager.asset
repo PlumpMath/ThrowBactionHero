@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tilemap
+  - Player
+  - Items
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3470094531
+    locked: 0
+  - name: SceneBackground
+    uniqueID: 2444109123
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2600249081
+    locked: 0
+  - name: Platforms
+    uniqueID: 2032756387
+    locked: 0
+  - name: Tilemap
+    uniqueID: 4090889969
+    locked: 0
+  - name: Items
+    uniqueID: 1153730719
+    locked: 0
+  - name: Doors
+    uniqueID: 1500320135
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3945548409
+    locked: 0
+  - name: Enemies
+    uniqueID: 305149093
+    locked: 0
+  - name: Player
+    uniqueID: 2029962147
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Scene01
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 256
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: e3ab471d28c780ffcea0a4c359a8dd65
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: e3ab471d28c780ffcea0a4c359a8dd65
+    totalSpriteSurfaceArea: 19456
+    packables:
+    - {fileID: 21300000, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300002, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300004, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300006, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300008, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300010, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300012, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300014, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300016, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300018, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300020, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300022, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300024, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300026, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300028, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300030, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300032, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300034, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    - {fileID: 21300036, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+    packedSpriteRenderDataKeys:
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300022
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300020
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300026
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300024
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300030
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300028
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300034
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300032
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300036
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300016
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300018
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300004
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300006
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300000
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300002
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300012
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300014
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300008
+    - 1e9fdb50e610543328cb2d98382ca8fc: 21300010
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300022, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300020, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300026, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300024, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300030, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300028, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300034, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300032, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300036, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300016, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300018, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300004, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300006, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300000, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300002, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300012, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300014, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300008, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  - {fileID: 21300010, guid: 1e9fdb50e610543328cb2d98382ca8fc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Scene01Assets_11
+  - Scene01Assets_10
+  - Scene01Assets_13
+  - Scene01Assets_12
+  - Scene01Assets_15
+  - Scene01Assets_14
+  - Scene01Assets_17
+  - Scene01Assets_16
+  - Scene01Assets_18
+  - Scene01Assets_8
+  - Scene01Assets_9
+  - Scene01Assets_2
+  - Scene01Assets_3
+  - Scene01Assets_0
+  - Scene01Assets_1
+  - Scene01Assets_6
+  - Scene01Assets_7
+  - Scene01Assets_4
+  - Scene01Assets_5
+  m_Tag: Scene01
+  m_IsVariant: 0
